@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+groq
+python-dotenv
+pydub
+google-auth-oauthlib
+markdown
+agentops
